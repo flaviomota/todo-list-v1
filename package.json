@@ -1,0 +1,24 @@
+{
+  "name": "todo-list-v1",
+  "version": "1.0.0",
+  "description": "A example of a To Do List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomota/todo-list-v1.git"
+  },
+  "author": "Flávio Mota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomota/todo-list-v1/issues"
+  },
+  "homepage": "https://github.com/flaviomota/todo-list-v1#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
