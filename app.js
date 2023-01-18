@@ -5,7 +5,7 @@ const port = 3000;
 
 const app = express();
 
-const items = [];
+const items = ["Try me"];
 
 app.set('view engine', 'ejs');
 
